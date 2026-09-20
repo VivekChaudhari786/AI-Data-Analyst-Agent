@@ -125,5 +125,5 @@ tabulate
 
 ## 👤 Author
 
-- **GitHub:** [@your-username](https://github.com/your-username)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/your-profile)
+- **GitHub:** [@your-username]((https://github.com/VivekChaudhari786))
+- **LinkedIn:** [Your Name] ((www.linkedin.com/in/vivek-kumar-chaudhari))
